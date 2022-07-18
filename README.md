@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://balagurusiva.github.io/interactive-rating-component-main/](https://balagurusiva.github.io/interactive-rating-component-main/)
 
 ### Built with
 
@@ -36,5 +36,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@BALAGURU](https://www.frontendmentor.io/profile/Balagurusiva)
+- Frontend Mentor - [@Balaguru](https://www.frontendmentor.io/profile/Balagurusiva)
 - GitHub - [@Balaguru](https://www.github.com/Balagurusiva)
