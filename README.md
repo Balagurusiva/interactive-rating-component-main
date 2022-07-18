@@ -9,7 +9,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Links](#links)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 Users should be able to:
