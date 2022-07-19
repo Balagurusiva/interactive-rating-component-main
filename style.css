@@ -22,7 +22,7 @@ body {
     height: 100vh;
     background-color: var(--veryDarkBlue);
     
-    padding: auto;
+    padding: 80px;
     margin:auto;
 }
 .main{
