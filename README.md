@@ -1,5 +1,7 @@
  # Frontend Mentor - Interactive rating component solution
 
+ [![trophy](https://github-profile-trophy.vercel.app/?Balagurusiva=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). 
 
 ## Table of contents
